@@ -1,6 +1,6 @@
 # Healthcare Readmission Risk (Synthetic Data)
 
-End-to-end data analysis pipeline on synthetic hospital data:
+Data analysis pipeline on synthetic hospital data:
 - data generation
 - cleaning + EDA
 - feature engineering
